@@ -1,1 +1,1 @@
-# Octocats
+For this assignment I rebuilt the Octodex which is a page on github.com which showcases the artwork of github users. It is a fairly complex layout for someone new to html and css. It was our first big weekend assignment when we were learning html and css. I was fairly inexperienced in html and css when this project was completed yet I was able to recreate the website with my own code. While I have advanced in my HTML/CSS abilities this shows how I was able to pick up these markup languages to create a fairly complex layout in a short period of time.
